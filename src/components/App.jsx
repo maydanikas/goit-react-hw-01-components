@@ -3,8 +3,7 @@ import data from '../constants/data.json';
 import friends from '../constants/friends.json';
 import { Profile } from './Profile/Profile';
 import { Statistics } from './Statistics/Statistics';
-// import { FriendList } from './FriendList/FriendList';
-import FriendList from './FriendList/FriendList';
+import { FriendList } from './FriendList/FriendList';
 
 // console.log(friends);
 
